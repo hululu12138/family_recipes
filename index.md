@@ -1,5 +1,5 @@
 
-# Meijia's secret recipes
+# Meijia's family mysterious recipes
 
 Set of recipes as given by my grandma
 
